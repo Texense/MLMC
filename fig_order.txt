@@ -1,0 +1,20 @@
+1.introduction
+VI_plots
+
+2.Background
+BG_conv&nonconv
+
+3.Coupling single neurons
+V0_V1
+a.s conv t-t
+a.s conv t-thalf
+t_error
+2neurons
+
+4.Couplings & sensitivity
+G_based_feedforward
+G_based_recurrent
+convergence_S
+
+5. MLMC for LIF
+loglogmv
